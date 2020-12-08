@@ -5,11 +5,11 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "quentin"
+    "text": "Quentin"
   },
   "text": {
-    "more": "very long",
-    "intro": "short",
+    "more": "This is a very long description",
+    "intro": "This is a short intro",
     "title": "raronne"
   },
   "legend": {
@@ -40,7 +40,7 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 10,
+      "maxEdgeSize": 100,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
       "maxNodeSize": 7
